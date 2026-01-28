@@ -47,3 +47,5 @@ A transição do código local para a web:
 </table>
 
 ---
+
+<div align="center"> <p>Desenvolvido com 🐍 por Mike Assis </p> </div>
